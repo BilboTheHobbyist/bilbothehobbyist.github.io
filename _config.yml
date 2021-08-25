@@ -29,9 +29,13 @@ twitter_username: jekyllrb
 github_username:  BilboTheHobbyist
 
 # Build settings
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
+
+# local bug
+# worse=>  github: [metadata]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
