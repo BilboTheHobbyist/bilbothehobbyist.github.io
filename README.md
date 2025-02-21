@@ -1,9 +1,10 @@
 ## Developer Portfolio Landing Page Template
 
-### ⚠️ Project Discontinued ⚠️
+### ⚠️ Warning ⚠️
 
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
+**Note:** I forked [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio) project for self-training. Beware of pitfalls!
 
+At a glance
 ---
 
 ### Introduction
@@ -43,9 +44,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Roadmap
+### ⚠️ Project Discontinued ⚠️
 
-This project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork the repository and customize it to your needs.
+The [evanca/quick-portfolio](https://github.com/evanca/quick-portfolio) project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork that repository (not mine !) and customize it to your needs.
 ___
 
 ### References
